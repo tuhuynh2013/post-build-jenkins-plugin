@@ -1,5 +1,5 @@
 <?jelly escape-by-default='true'?>
-<!-- This view is used to render the installed plugins page. -->
+        <!-- This view is used to render the installed plugins page. -->
 <div>
-  This plugin send mail post build.
+This plugin send mail post build.
 </div>
